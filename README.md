@@ -1,11 +1,15 @@
-# SWE INTERVIEW TEST 
-THIS IS TO TEST YOUR SKILLS TO MEET OUR APP DEVELOPMENT REQUIREMENTS
+# SWE Interview Test - Simple Card List Application
 
-1. Clone this repo to your local machine.
-2. Read `Assignment Requirements` carefully and follow it.
-4. Please commit your entire code to `your own Github repository` 
-5. On your repo, please add step-by-step instructions on how to launch (for both the Backend and Frontend) to the `README.md`
-6. Share your repo link with us via email.
+This project is a simple product card list application built with React, Material UI, Axios, Node.js, and Express.
 
-HAPPY CODING! </br>
-A Round Entertainment
+## Tech Stack
+- Frontend: React, Material UI, Axios
+- Backend: Node.js, Express
+
+## Backend Setup
+1. Open a terminal
+2. Run:
+   ```bash
+   cd StarterCode/backend
+   npm install
+   node index.js
